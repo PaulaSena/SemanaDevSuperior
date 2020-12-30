@@ -5,10 +5,10 @@ desenvolvido com back end e front end web implantados na nuvem.
 
 Linguagens abordadas:
 
-##BackEnd
+## BackEnd
 -Java com Spring Boot
 
-##FrontEnd
+## FrontEnd
 
 -JavaScript/TypeScript 
 -ReactJS para web
