@@ -11,7 +11,9 @@ Linguagens abordadas:
 ## FrontEnd
 
 -JavaScript/TypeScript 
+
 -ReactJS para web
+
 -React Native para mobile.
 
 
