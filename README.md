@@ -39,7 +39,11 @@ Requisitos funcional- Manipulação de dados do sistemas.
 Requisitos não funcional- não há manipulação de dados do sistemas.
 
 
-Wireframe: figma inserir link e img
+Wireframe:
+
+![Primeira tela](https://raw.githubusercontent.com/PaulaSena/SemanaDevSuperior/main/tela1.PNG "Home")
+
+![Segunda tela](https://raw.githubusercontent.com/PaulaSena/SemanaDevSuperior/main/tela2.PNG "Home")
 
 
 
